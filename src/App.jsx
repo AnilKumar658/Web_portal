@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter } from "react-router-dom";
+import {HashRouter as  BrowserRouter } from "react-router-dom";
 import {
   About,
   Contact,
