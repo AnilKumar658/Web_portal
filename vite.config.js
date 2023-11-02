@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     chunkSizeWarningLimit: 10000, // Adjust the limit to your desired value in kBs
   },
-  base: "/3d_portfolio"
+  base: "/Web_portal"
 })
